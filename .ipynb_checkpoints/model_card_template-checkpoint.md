@@ -11,7 +11,7 @@ Training Data
 The training data consist of a Census dataset that includes age, work class, education, marital status, occupation, relationship, race, sex, and native country.
 
 Evaluation Data
-The evaluation was conducted using a random split from the orginal data. This test data is just as diverse as the real world data.
+The evaluation was conducted using a random split from the orginal data.2 0% of the original dataset was allocated as the test dataset. This test data is just as diverse as the real world data.
 
 Metrics
 Overall Performance:
