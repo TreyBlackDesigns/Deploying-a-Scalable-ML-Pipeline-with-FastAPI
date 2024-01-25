@@ -28,7 +28,7 @@ class Data(BaseModel):
 #Path
 path = "/mnt/c/Users/treyd/Documents/Deploying-a-Scalable-ML-Pipeline-with-FastAPI/model/encoder.pkl"
 encoder = load_model(path)
-
+#Model
 path = "/mnt/c/Users/treyd/Documents/Deploying-a-Scalable-ML-Pipeline-with-FastAPI/model/model.pkl" 
 model = load_model(path)
 
